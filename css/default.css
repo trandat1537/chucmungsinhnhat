@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    /* Ảnh nền của trang thứ 2 nếu bạn muốn thay đổi thì nó tại đây */
+    
     background-image: url("https://scr.vn/wp-content/uploads/2020/07/H%C3%ACnh-n%E1%BB%81n-tr%C3%A1i-tim-t%C3%ACnh-y%C3%AAu-%C4%91%E1%BA%B9p-2048x1280.jpg");
     background-size: cover;
     background-repeat: no-repeat;
